@@ -1,4 +1,7 @@
-<img src="./src/readme_header.png" height="400px" alt="Hi! I'm Melissa! People also call me BROG.">
+<div align="center">
+  <img src="./src/readme_header.png" height="400px" alt="Hi! I'm Melissa! People also call me BROG.">
+</div>
+
 <h2> About Me
   <img 
     align="letft"
@@ -51,4 +54,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="30px" align="letft"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" align="letft"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" align="letft"/>
-</div>
+</div
