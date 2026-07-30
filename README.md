@@ -18,6 +18,7 @@
     alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/BROGVitorio/BROGVitorio/output/github-contribution-grid-snake.svg">
 </picture>
+
 <ul>
   <li>🖥 Fullstack Developer</li>
   <li>🎓 System Development student</li>
